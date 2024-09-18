@@ -1,0 +1,1 @@
+A razão pela qual escrevemos no GitHub Wiki é para ajudar no processo de integração de novos analistas e diminuir a quantidade de documentação “antiga”.

@@ -1,0 +1,1 @@
+- [Descrição das etapas para subir o Kibana via Docker no Ogbon](https://github.com/BR-SAM-SW-HPC/docs/wiki/Subir-o-Kibana-via-Docker-no-Ogbon)
